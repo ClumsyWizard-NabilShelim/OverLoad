@@ -5,4 +5,4 @@ Overload is my first ever released game! Its a local-multiplayer turn-based stra
   - Unity Game Engine.
   - C# programming engine.
   - Bfxr for sound effects.
-  - Aseprite for pixel art.
+  - Photoshop for pixel art.

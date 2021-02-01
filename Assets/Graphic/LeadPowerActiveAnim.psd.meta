@@ -1,0 +1,557 @@
+fileFormatVersion: 2
+guid: 7672e9d6dc3930044bc5845b0142fd9c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1167123270537024050
+    second: LeadPowerActiveAnim_0
+  - first:
+      213: -9011259065076393046
+    second: LeadPowerActiveAnim_1
+  - first:
+      213: -1728735029943051711
+    second: LeadPowerActiveAnim_2
+  - first:
+      213: -3881171715684923414
+    second: LeadPowerActiveAnim_3
+  - first:
+      213: 4089578080934787922
+    second: LeadPowerActiveAnim_4
+  - first:
+      213: -429673419200464983
+    second: LeadPowerActiveAnim_5
+  - first:
+      213: -6045081258102960970
+    second: LeadPowerActiveAnim_6
+  - first:
+      213: 8148736441229914572
+    second: LeadPowerActiveAnim_7
+  - first:
+      213: -3704108466989206889
+    second: LeadPowerActiveAnim_8
+  - first:
+      213: -5684599025686989513
+    second: LeadPowerActiveAnim_9
+  - first:
+      213: -4455665143695002080
+    second: LeadPowerActiveAnim_10
+  - first:
+      213: 6543485651869544727
+    second: LeadPowerActiveAnim_11
+  - first:
+      213: 2776474260025879081
+    second: LeadPowerActiveAnim_12
+  - first:
+      213: -6474531506637835008
+    second: LeadPowerActiveAnim_13
+  - first:
+      213: -8643376716332366528
+    second: LeadPowerActiveAnim_14
+  - first:
+      213: 4922450263488134134
+    second: LeadPowerActiveAnim_15
+  - first:
+      213: -5203661105683993484
+    second: LeadPowerActiveAnim_16
+  - first:
+      213: -6306729413873827436
+    second: LeadPowerActiveAnim_17
+  - first:
+      213: 973032385065819156
+    second: LeadPowerActiveAnim_18
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LeadPowerActiveAnim_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 11
+        width: 3
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 677dedf1d0efe984e8604e6c2d58a8a4
+      internalID: 1167123270537024050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeadPowerActiveAnim_1
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 10
+        width: 3
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b6dd563b7a19b34882ddf7c409a84e1
+      internalID: -9011259065076393046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeadPowerActiveAnim_2
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 10
+        width: 3
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb283b54a96026645a8daf135e0ffdaf
+      internalID: -1728735029943051711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeadPowerActiveAnim_3
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1
+        width: 3
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0d63651e77e07c4799512f10dbd160c
+      internalID: -3881171715684923414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeadPowerActiveAnim_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12477d1a5f7968c4b9aa99e172699aa7
+      internalID: 4089578080934787922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeadPowerActiveAnim_5
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 1
+        width: 9
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bbd261ccde2e6c4599e7abba17622f4
+      internalID: -429673419200464983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeadPowerActiveAnim_6
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 1
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4150771cf4c2e347926af8ab1559b27
+      internalID: -6045081258102960970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeadPowerActiveAnim_7
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4b8b357109d6814d8457001ea32da9f
+      internalID: 8148736441229914572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeadPowerActiveAnim_8
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 1
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aa0340fde06dcf4fb33753e27acda6f
+      internalID: -3704108466989206889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeadPowerActiveAnim_9
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 1
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8f42146d0ad6ba488a9fd9313d8b671
+      internalID: -5684599025686989513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeadPowerActiveAnim_10
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25b7306588e3a4249a39a09c8706d74d
+      internalID: -4455665143695002080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeadPowerActiveAnim_11
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 1
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa297b70cfb65774a89f70feb56d828d
+      internalID: 6543485651869544727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeadPowerActiveAnim_12
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 1
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 516cc73e8f2ca65489fa255d29e422e6
+      internalID: 2776474260025879081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeadPowerActiveAnim_13
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 1
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7364b7bacec8604e9ab8b7973616f7a
+      internalID: -6474531506637835008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeadPowerActiveAnim_14
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 1
+        width: 39
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ac8c06eb00e4e241a26458889412bab
+      internalID: -8643376716332366528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeadPowerActiveAnim_15
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 1
+        width: 43
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fea6eb8c7f5503f47bbdb325b5f0621c
+      internalID: 4922450263488134134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeadPowerActiveAnim_16
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 1
+        width: 45
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 299b74e75d809c142a077325f8463a61
+      internalID: -5203661105683993484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeadPowerActiveAnim_17
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 1
+        width: 51
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12c660497737ffd49bdb6bb4e13d5a1c
+      internalID: -6306729413873827436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeadPowerActiveAnim_18
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 1
+        width: 49
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81a2369731485244a8472c7bd69e0af8
+      internalID: 973032385065819156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: fbcdbf97907eb0747bf5ad019a018d36
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

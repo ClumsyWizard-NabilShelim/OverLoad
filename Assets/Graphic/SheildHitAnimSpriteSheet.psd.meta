@@ -1,0 +1,509 @@
+fileFormatVersion: 2
+guid: c47e1908929cfa8418fe5c1f34df2d4b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8677027098875801481
+    second: SheildHitAnimSpriteSheet_0
+  - first:
+      213: -8368316320693328104
+    second: SheildHitAnimSpriteSheet_1
+  - first:
+      213: 5419780136466361933
+    second: SheildHitAnimSpriteSheet_2
+  - first:
+      213: -7580116828246389851
+    second: SheildHitAnimSpriteSheet_3
+  - first:
+      213: 8243491462376413092
+    second: SheildHitAnimSpriteSheet_4
+  - first:
+      213: -9128192391794650737
+    second: SheildHitAnimSpriteSheet_5
+  - first:
+      213: -3892965448394964436
+    second: SheildHitAnimSpriteSheet_6
+  - first:
+      213: 600037081887058627
+    second: SheildHitAnimSpriteSheet_7
+  - first:
+      213: -8942782781100858740
+    second: SheildHitAnimSpriteSheet_8
+  - first:
+      213: 7765691866174076899
+    second: SheildHitAnimSpriteSheet_9
+  - first:
+      213: 215117501152668397
+    second: SheildHitAnimSpriteSheet_10
+  - first:
+      213: 7927145330426368602
+    second: SheildHitAnimSpriteSheet_11
+  - first:
+      213: 8600978779998714473
+    second: SheildHitAnimSpriteSheet_12
+  - first:
+      213: -6703424446873040979
+    second: SheildHitAnimSpriteSheet_13
+  - first:
+      213: -9219329060054862283
+    second: SheildHitAnimSpriteSheet_14
+  - first:
+      213: 7702368309411517081
+    second: SheildHitAnimSpriteSheet_15
+  - first:
+      213: -5222040823437319033
+    second: SheildHitAnimSpriteSheet_16
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SheildHitAnimSpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 9
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e4d292e000c4b34b82483773d1e27f2
+      internalID: -8677027098875801481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheildHitAnimSpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 9
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 658b2f8aff77930498d8c77b182cc6fa
+      internalID: -8368316320693328104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheildHitAnimSpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 9
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bc457c5cb0f30e498a01bb099b380ca
+      internalID: 5419780136466361933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheildHitAnimSpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 9
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9341d099f57777b4d9d8f36bda3932cf
+      internalID: -7580116828246389851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheildHitAnimSpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 9
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f14d5b30b0d364446bd6c2f34460b66a
+      internalID: 8243491462376413092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheildHitAnimSpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 9
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2791b9b0d27a82e4a8b5a7f8e1d91e9a
+      internalID: -9128192391794650737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheildHitAnimSpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 9
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4df23c821c8205f48920f8fe2e946731
+      internalID: -3892965448394964436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheildHitAnimSpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 9
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54854050f0a7c3f4db47a6057f49ae2a
+      internalID: 600037081887058627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheildHitAnimSpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 9
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 634ca3f9b62e197419d9ba01d990fa85
+      internalID: -8942782781100858740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheildHitAnimSpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 9
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 727561a207178134ba2ed52ac63fe6e0
+      internalID: 7765691866174076899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheildHitAnimSpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 9
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58b7ab414cefe0c46a6f951611b4a97c
+      internalID: 215117501152668397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheildHitAnimSpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 9
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ac7e60c54a9a204f9dd29ff25f0ebb8
+      internalID: 7927145330426368602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheildHitAnimSpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 9
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a854357544c749f4ba21d76d8a508674
+      internalID: 8600978779998714473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheildHitAnimSpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 9
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 004bd78c58e66dc4c884517f7cd7c16a
+      internalID: -6703424446873040979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheildHitAnimSpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 9
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bb75d2b5f99ca04581c33e7b9a9253b
+      internalID: -9219329060054862283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheildHitAnimSpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 9
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b1d3096a9ebf5b4bb17f28b47ed11bd
+      internalID: 7702368309411517081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheildHitAnimSpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 9
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dc32f1c4b6a66f4c80faf34bf809a89
+      internalID: -5222040823437319033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: b3554257c79534e4f9f0b158bc707dd3
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

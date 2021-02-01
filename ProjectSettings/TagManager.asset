@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - P1/Left
+  - P1/Right
+  - P2/Left
+  - P2/Right
+  - Sheild
+  - S1
+  - S2
+  - EMP
+  - RayGun
+  - Bullet
+  - GM
+  - CellHolder
+  - cameraHolder
+  - IceCorePos
+  - IceCore
+  - CellNuke
+  - AntiEMP
+  - AudioManager
+  - FadeCanvas
+  - P1Cards
+  - P2Cards
+  - LINE
+  - TransPanel
+  - CoverCanvas
+  - P1LeftContainer
+  - P1RightContainer
+  - P2LeftContainer
+  - P2RightContainer
+  - MainMenu
+  - SelectionMenu
+  - Star
+  - LeadShield
+  - Normalizer
+  - Hacker
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Environment
+    uniqueID: 1671295901
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Player
+    uniqueID: 2573484115
+    locked: 0
+  - name: Effect
+    uniqueID: 1270751833
+    locked: 0
+  - name: ControlBar
+    uniqueID: 1266238433
+    locked: 0
+  - name: Cursor
+    uniqueID: 1981944239
+    locked: 0
+  - name: Ray
+    uniqueID: 4003189593
+    locked: 0

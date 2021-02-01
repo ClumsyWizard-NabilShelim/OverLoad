@@ -1,0 +1,328 @@
+fileFormatVersion: 2
+guid: 47f4d0a6f48cbf243b45c418ae499971
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6780216131727101860
+    second: CellNukeSptiteSheet_0
+  - first:
+      213: 6273691137042893981
+    second: CellNukeSptiteSheet_1
+  - first:
+      213: 1368116824532826562
+    second: CellNukeSptiteSheet_2
+  - first:
+      213: 3018797962013473531
+    second: CellNukeSptiteSheet_3
+  - first:
+      213: -4976802035461914632
+    second: CellNukeSptiteSheet_4
+  - first:
+      213: -448994879234428064
+    second: CellNukeSptiteSheet_5
+  - first:
+      213: 240149775420237335
+    second: CellNukeSptiteSheet_6
+  - first:
+      213: 831483524733846139
+    second: CellNukeSptiteSheet_7
+  - first:
+      213: 6723260452978726803
+    second: CellNukeSptiteSheet_8
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 7
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CellNukeSptiteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 22
+        width: 1318
+        height: 1019
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ee4ed7a73db52b439455c9cbd4018f0
+      internalID: -6780216131727101860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CellNukeSptiteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 1956
+        y: 22
+        width: 1318
+        height: 1019
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb53fdc6d87c3ac4aa106272e98598d8
+      internalID: 6273691137042893981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CellNukeSptiteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 3457
+        y: 22
+        width: 1318
+        height: 1158
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f923598dec3d2014a917626e75e25b6d
+      internalID: 1368116824532826562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CellNukeSptiteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 5127
+        y: 22
+        width: 1318
+        height: 1158
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08073a886506cb84eb64a4688a3d1be2
+      internalID: 3018797962013473531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CellNukeSptiteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 6570
+        y: 22
+        width: 1318
+        height: 1224
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68aa483bf94446f408bfd1df223683f7
+      internalID: -4976802035461914632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CellNukeSptiteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 8101
+        y: 22
+        width: 1318
+        height: 1319
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2220cdd6435d8e646bbfec1983c293e5
+      internalID: -448994879234428064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CellNukeSptiteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 9617
+        y: 22
+        width: 1318
+        height: 1370
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dac2a2c16565d4b4db4ea79e2ab07408
+      internalID: 240149775420237335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CellNukeSptiteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 11104
+        y: 22
+        width: 1318
+        height: 1363
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17530eb0eee0cf9469460eaf1bf27d12
+      internalID: 831483524733846139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CellNukeSptiteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 12561
+        y: 22
+        width: 1326
+        height: 1341
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a86552cbe4511454e86382af61204c4b
+      internalID: 6723260452978726803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: de14365f973e8f94eb29d29380f7bfec
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,592 @@
+fileFormatVersion: 2
+guid: 08121a316e201c54794c7c2abdcd41b9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5461449200404545165
+    second: IceCoreEffect_0
+  - first:
+      213: 865027824638148860
+    second: IceCoreEffect_1
+  - first:
+      213: -1139081111343796224
+    second: IceCoreEffect_2
+  - first:
+      213: -9128038183828556713
+    second: IceCoreEffect_3
+  - first:
+      213: 507504002536941266
+    second: IceCoreEffect_4
+  - first:
+      213: -6355953312122157557
+    second: IceCoreEffect_5
+  - first:
+      213: 4524534909168608228
+    second: IceCoreEffect_6
+  - first:
+      213: 8212070126581710029
+    second: IceCoreEffect_7
+  - first:
+      213: -8813312614694691867
+    second: IceCoreEffect_8
+  - first:
+      213: -1344616122628726030
+    second: IceCoreEffect_9
+  - first:
+      213: -50224292148802052
+    second: IceCoreEffect_10
+  - first:
+      213: 4765474914964168922
+    second: IceCoreEffect_11
+  - first:
+      213: -646615841382308344
+    second: IceCoreEffect_12
+  - first:
+      213: 7836192563727137649
+    second: IceCoreEffect_13
+  - first:
+      213: -7814775201406795927
+    second: IceCoreEffect_14
+  - first:
+      213: -200092076270578412
+    second: IceCoreEffect_15
+  - first:
+      213: 409657977497976374
+    second: IceCoreEffect_16
+  - first:
+      213: -1454325202468845987
+    second: IceCoreEffect_17
+  - first:
+      213: 3846706710640458004
+    second: IceCoreEffect_18
+  - first:
+      213: 5651380603513389288
+    second: IceCoreEffect_19
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: IceCoreEffect_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 8
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbabb2ab9135f914d8616c9fbfcfe59f
+      internalID: 5461449200404545165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceCoreEffect_1
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 14
+        width: 18
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92d8e1c0c45e90f42821a097d4caae9a
+      internalID: 865027824638148860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceCoreEffect_2
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 11
+        width: 24
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cc96ce8e8b81554da2239b9901b2e01
+      internalID: -1139081111343796224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceCoreEffect_3
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 10
+        width: 41
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cc8e169346c1214f9e9f3762eee585e
+      internalID: -9128038183828556713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceCoreEffect_4
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 10
+        width: 48
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6943b0228e688bc4aa032fafbc6e8ab3
+      internalID: 507504002536941266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceCoreEffect_5
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 9
+        width: 49
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 127840cc4afd13643a21260772f8ab13
+      internalID: -6355953312122157557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceCoreEffect_6
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 9
+        width: 50
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf0f166f97e48184d8caefcbacd99150
+      internalID: 4524534909168608228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceCoreEffect_7
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 9
+        width: 50
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3dd75fa61e66f444b33cc815b40cc9e
+      internalID: 8212070126581710029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceCoreEffect_8
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 9
+        width: 50
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b393b81966743e4fb13137f0b5191b0
+      internalID: -8813312614694691867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceCoreEffect_9
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 9
+        width: 53
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e4e2fb8adeaa944583b6ce2932baf12
+      internalID: -1344616122628726030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceCoreEffect_10
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 9
+        width: 53
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 884bc087c829e3a4d9ceee0eecb1618a
+      internalID: -50224292148802052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceCoreEffect_11
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 9
+        width: 53
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b89d2c23a19944478a9556a2e5effe7
+      internalID: 4765474914964168922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceCoreEffect_12
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 9
+        width: 53
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bcd527d5d145524da708ce06ee7178e
+      internalID: -646615841382308344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceCoreEffect_13
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 9
+        width: 53
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21703116d94cdf64e922444573d01896
+      internalID: 7836192563727137649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceCoreEffect_14
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 8
+        width: 53
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeb6a5af8d56f2c4b8ca47bdab5293fb
+      internalID: -7814775201406795927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceCoreEffect_15
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 8
+        width: 53
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1137f921017be4409cc9bf3c7274ffa
+      internalID: -200092076270578412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceCoreEffect_16
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 8
+        width: 53
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e16f872fce2ec2489ec86f8a47d85af
+      internalID: 409657977497976374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceCoreEffect_17
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 8
+        width: 53
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d74251c3a83974a4bbb0b68abd901833
+      internalID: -1454325202468845987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceCoreEffect_18
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 8
+        width: 53
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb328589f934d2640be15dbe4b14a362
+      internalID: 3846706710640458004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceCoreEffect_19
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 8
+        width: 55
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0afe3f70b6ef5948b68873efd0cc14d
+      internalID: 5651380603513389288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 9d618472ad9ef8d4bac94705cb7a29a6
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

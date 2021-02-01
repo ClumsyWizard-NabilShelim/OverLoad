@@ -1,0 +1,496 @@
+fileFormatVersion: 2
+guid: 9e5426916da80b142ad516c547f6b8c3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7310305195354625984
+    second: SheildAnimationSpriteSheet_0
+  - first:
+      213: 3730808482200013060
+    second: SheildAnimationSpriteSheet_1
+  - first:
+      213: -4613874670866628304
+    second: SheildAnimationSpriteSheet_2
+  - first:
+      213: -1222256493776736405
+    second: SheildAnimationSpriteSheet_3
+  - first:
+      213: 6584423614846057646
+    second: SheildAnimationSpriteSheet_4
+  - first:
+      213: 3240380637722933444
+    second: SheildAnimationSpriteSheet_5
+  - first:
+      213: 1433726874721288697
+    second: SheildAnimationSpriteSheet_6
+  - first:
+      213: -8550815488569039884
+    second: SheildAnimationSpriteSheet_7
+  - first:
+      213: -3699482872071014042
+    second: SheildAnimationSpriteSheet_8
+  - first:
+      213: -2491369964024549502
+    second: SheildAnimationSpriteSheet_9
+  - first:
+      213: -1797310396269928506
+    second: SheildAnimationSpriteSheet_10
+  - first:
+      213: 9055554571781928568
+    second: SheildAnimationSpriteSheet_11
+  - first:
+      213: -9122040409628413908
+    second: SheildAnimationSpriteSheet_12
+  - first:
+      213: 6537509981687531282
+    second: SheildAnimationSpriteSheet_13
+  - first:
+      213: -8810524645508045459
+    second: SheildAnimationSpriteSheet_14
+  - first:
+      213: 8783354423718697822
+    second: SheildAnimationSpriteSheet_15
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SheildAnimationSpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 24
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e969a2092adb99c40896be7ecf643503
+      internalID: -7310305195354625984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheildAnimationSpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 17
+        width: 1
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecacac15d40fa8040bc905735fc05816
+      internalID: 3730808482200013060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheildAnimationSpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 16
+        width: 1
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90bad8e79e16a11418b8c0666d9ee7b0
+      internalID: -4613874670866628304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheildAnimationSpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 14
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91c103087de5b5243bf800fab8265600
+      internalID: -1222256493776736405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheildAnimationSpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 12
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f720513d68d88c409ced72e3777e805
+      internalID: 6584423614846057646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheildAnimationSpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 10
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3167f5e4892f17d4dbfbb597f2f7c691
+      internalID: 3240380637722933444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheildAnimationSpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 10
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c8691a04c7d0cc4cac166797a1c2c6e
+      internalID: 1433726874721288697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheildAnimationSpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 10
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66de7a9aa42106948bb0874513eb1346
+      internalID: -8550815488569039884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheildAnimationSpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 10
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daba8588e4469314a91bf2d17c0d8fd7
+      internalID: -3699482872071014042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheildAnimationSpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 10
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ee2068fb89e8e646b6fcd8bb2c94638
+      internalID: -2491369964024549502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheildAnimationSpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 10
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26af79283d26dbd4f8109021af05d551
+      internalID: -1797310396269928506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheildAnimationSpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 10
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db0f4f9f9675da94ab26f0885606dcfe
+      internalID: 9055554571781928568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheildAnimationSpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 10
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a4d4a915a5f28c4a8e9cc567c339285
+      internalID: -9122040409628413908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheildAnimationSpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 9
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63e499675de09e04b935365fa62c1c46
+      internalID: 6537509981687531282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheildAnimationSpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 9
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42810916a156c4941b089a1f7820a643
+      internalID: -8810524645508045459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheildAnimationSpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 9
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a68ffdb69024b14ea3cc71a2f19db92
+      internalID: 8783354423718697822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: a9070cb697741ff46ad4838948c87886
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
